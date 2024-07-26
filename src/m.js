@@ -12,8 +12,8 @@ function F1(){
            
         <h1> name: Manasa</h1>
         <h2>Branch:It</h2>
-        <h3>sVECW</h3>
-        <h4>college name</h4>
+        <h3>SVECW</h3>
+        <h4>college Name</h4>
         </div>
     )
 }
