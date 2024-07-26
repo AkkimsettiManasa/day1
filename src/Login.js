@@ -16,7 +16,7 @@ function Qi(){
     return(
         <div className="card" style={{align:'center',width:'300px',padding:'20px'}}>
             <h1>Login</h1>
-            <p>Enter your details</p>
+            <p>Enter your Details </p>
             <form onSubmit={formSubmit} style={{display:'flex',flexDirection:'column',gap:'10px'}}>
                 <label>Name</label>
                 <input type="text" ref={nameRef} placeholder="Enter your name"/><br></br>
